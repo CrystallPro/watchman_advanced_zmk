@@ -140,7 +140,7 @@
 
             bindings = <
 &kp LEFT_GUI           &kp KP_MULTIPLY  &kp N7  &kp N8  &kp N9  &lt 3 PLUS      &none      &kp HOME  &kp K_PLAY_PAUSE  &kp PG_UP  &kp C_VOL_UP  &kp RIGHT_GUI
-&kp LCTRL              &kp KP_SLASH     &kp N4  &kp N5  &kp N6  &kp KP_MINUS    &kp LEFT   &kp DOWN  &kp UP            &kp RIGHT  &kp C_VOL_DN  &mt RCTRL KP_ENTER
+&kp LCTRL              &kp KP_SLASH     &kp N4  &kp N5  &kp N6  &kp KP_MINUS    &kp LEFT   &kp DOWN  &kp UP            &kp RIGHT  &kp C_VOL_DN  &kp RCTRL
 &mt LEFT_ALT KP_EQUAL  &kp KP_NUMBER_0  &kp N1  &kp N2  &kp N3  &kp KP_DOT      &kp KP_N0  &kp END   &kp PRINTSCREEN   &kp PG_DN  &kp C_MUTE    &kp RALT
                                                 &trans  &trans  &lt 3 RET       &lt 3 ESC  &trans    &trans
             >;
